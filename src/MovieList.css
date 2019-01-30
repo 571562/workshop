@@ -1,5 +1,5 @@
 .wrapper {
-  background: #E68A3E;
+  background: #808080;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,7 +13,7 @@ table {
 th {
   text-align: start;
   padding: 5px;
-  color: #443635;
+  color: #F08080;
 }
 
 td {
@@ -28,13 +28,13 @@ td {
 }
 
 tbody > tr:nth-child(odd) {
-  background: #F9F778;
+  background: #E6E6FA;
 }
 
 tbody > tr:nth-child(even) {
-  background: #8EC0E8;
+  background: #FFF0F5;
 }
 
 h1 {
-  color: #443635;
+  color: #FFB6C1;
 }
